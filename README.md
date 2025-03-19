@@ -10,4 +10,5 @@ O codigo consiste na filtragem e manipulação de dados do excel, utilizando pyt
   nova planilha.
  
   5. E no final eu salvo o novo arquivo
-  
+
+  obs: As plhanilhas que estão ai,são exemplos.
