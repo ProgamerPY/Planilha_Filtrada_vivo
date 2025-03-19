@@ -6,4 +6,4 @@ SelectColum = vivo[vivo["Serviço"].isin(["Seguro"])]
 
 vivo = vivo[["Data","CPF","Serviço"]]
 
-vivo.to_excel("Victor.xlsx")
+vivo.to_excel("Vendas_Filtrada.xlsx")
